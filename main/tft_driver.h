@@ -22,15 +22,3 @@ void display_push_colors(uint16_t x, uint16_t y, uint16_t width, uint16_t hight,
 #ifdef __cplusplus
 }
 #endif
-
-
-
-
-
-
-
-
-
-
-
-

@@ -9,9 +9,12 @@
   "idf.espIdfPath": "/Users/trevorcampbell/esp/v5.2.1/esp-idf",
   "idf.openOcdConfigs": [
     "interface/ftdi/esp32_devkitj_v1.cfg",
-    "target/esp32.cfg"
+    "target/esp32s3.cfg"
   ],
-  "idf.port": "/dev/cu.Bluetooth-Incoming-Port",
+  "idf.port": "/dev/cu.usbmodem101",
   "idf.pythonBinPath": "/Users/trevorcampbell/.espressif/python_env/idf5.2_py3.9_env/bin/python",
-  "idf.toolsPath": "/Users/trevorcampbell/.espressif"
+  "idf.toolsPath": "/Users/trevorcampbell/.espressif",
+  "files.associations": {
+    "gpio.h": "c"
+  }
 }
